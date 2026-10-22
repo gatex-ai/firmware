@@ -10,16 +10,16 @@
       "File": "NRF52840_Bootloader.fw",
       "Version": 1.2,
       "Updated": "2025-03-23",
-      "Type": "micro-controller"
-      "Note": "this is a note",
+      "Type": "micro-controller",
+      "Note": "this is a note"
     },
     {
       "Name": "name",
       "File": "some_file.zip",
       "Version": 1.4,
       "Updated": "2025-03-23",
-      "Type": "compute-module"
-      "Note": "this is a note",
-    },
+      "Type": "compute-module",
+      "Note": "this is a note"
+    }
   ]
 }

@@ -15,8 +15,8 @@
       "Note": "this is a note"
     },
     {
-      "Name": "name",
-      "File": "some_file.zip",
+      "Name": "CM4 V1",
+      "File": "CM4_V1.fw",
       "Version": 1.4,
       "Updated": "2025-03-23",
       "Type": "compute-module",
